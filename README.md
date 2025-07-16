@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Flutter developer with a stron
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ihsan-37b22431b/)  
-- 📧 mohammedihsan498@gmail.com*(mohammedihsan498@gmail.com)*
+- 📧 mohammedihsan498@gmail.com
 
 ---
 
